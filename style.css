@@ -1,0 +1,23 @@
+body{
+    background-color: #F5F2ED;
+    color: #2C2C2C;
+    font-family: Georgia, serif;
+}
+
+.hero{
+    text-align: center;
+}
+
+.hero img{
+    width: 180px;
+    border-radius: 50%;
+}
+
+.hero h1{
+    font-size: 60px;
+}
+
+.hero p{
+    font-size: 18px;
+    color: #666666;
+}
